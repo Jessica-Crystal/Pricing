@@ -1,1 +1,1 @@
-# Pricing_EUO
+# Pricing of European Options with Monte Carlo
